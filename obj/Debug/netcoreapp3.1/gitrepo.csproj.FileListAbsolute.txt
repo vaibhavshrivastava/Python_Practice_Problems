@@ -1,0 +1,11 @@
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo.deps.json
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo.runtimeconfig.json
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo.runtimeconfig.dev.json
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo.dll
+/home/vaibhav/gitrepo/bin/Debug/netcoreapp3.1/gitrepo.pdb
+/home/vaibhav/gitrepo/obj/Debug/netcoreapp3.1/gitrepo.csprojAssemblyReference.cache
+/home/vaibhav/gitrepo/obj/Debug/netcoreapp3.1/gitrepo.AssemblyInfoInputs.cache
+/home/vaibhav/gitrepo/obj/Debug/netcoreapp3.1/gitrepo.AssemblyInfo.cs
+/home/vaibhav/gitrepo/obj/Debug/netcoreapp3.1/gitrepo.dll
+/home/vaibhav/gitrepo/obj/Debug/netcoreapp3.1/gitrepo.pdb
